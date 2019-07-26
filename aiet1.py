@@ -1,1 +1,1 @@
-printf("good morning")
+printf("good good")
